@@ -13,6 +13,9 @@
   <a href="https://github.com/Desolate-Jix/evidence-driven-trading-desk">
     <img src="https://img.shields.io/badge/Trading_Desk-0A7F5A?style=flat-square&logo=openjdk&logoColor=white" alt="Trading Desk" />
   </a>
+  <a href="https://wenqing-ji-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-F0883E?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ### Welcome aboard
@@ -22,6 +25,8 @@
 * Working across AI agent safety, GUI automation, evidence-driven backend systems, and bounded-risk engineering.
 
 * Open to software engineering roles and collaborations around AI agents, automation, and reliable systems.
+
+* Portfolio: [**wenqing-ji-portfolio.vercel.app**](https://wenqing-ji-portfolio.vercel.app)
 
 ### Public Work
 
@@ -49,4 +54,3 @@ Earlier reproducible OSS baseline for human-reviewed GUI knowledge, current-obse
   <img src="https://img.shields.io/badge/Pytest-0D1117?style=flat-square&logo=pytest&logoColor=3FB950&labelColor=161B22" alt="Pytest" />
   <img src="https://img.shields.io/badge/AI_Agents-0D1117?style=flat-square&labelColor=161B22" alt="AI Agents" />
 </p>
-
