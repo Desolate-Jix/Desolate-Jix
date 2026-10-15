@@ -1,52 +1,52 @@
 <h1 align="center">Wenqing Ji</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=32&lines=AI+Agent+Runtimes+%C2%B7+Windows+GUI+Automation+%C2%B7+Reliable+Systems;Evidence-Driven+Engineering+%C2%B7+Fail-Closed+Execution+%C2%B7+Bounded+Risk" alt="Typing SVG" />
-  </a>
+  Software development &middot; AI agents &middot; Backend systems
 </p>
 
 <p align="center">
-  <a href="https://github.com/Desolate-Jix/agent-gui-runtime">
-    <img src="https://img.shields.io/badge/Agent_Runtime-181717?style=flat-square&logo=github&logoColor=white" alt="Agent Runtime" />
-  </a>
-  <a href="https://github.com/Desolate-Jix/evidence-driven-trading-desk">
-    <img src="https://img.shields.io/badge/Trading_Desk-0A7F5A?style=flat-square&logo=openjdk&logoColor=white" alt="Trading Desk" />
-  </a>
-  <a href="https://wenqing-ji-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-F0883E?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  Auckland, New Zealand &middot; Master of Information Technology, First Class Honours
 </p>
 
-### Welcome aboard
+<p align="center">
+  <a href="https://wenqing-ji-portfolio.vercel.app">Portfolio</a> &middot;
+  <a href="https://www.linkedin.com/in/wenqingji/">LinkedIn</a> &middot;
+  <a href="mailto:wji044@aucklanduni.ac.nz">Email</a>
+</p>
 
-* Building [**Agent GUI Runtime**](https://github.com/Desolate-Jix/agent-gui-runtime), a reliability layer between computer-use agents and Windows GUI actions.
+### About me
 
-* Working across AI agent safety, GUI automation, evidence-driven backend systems, and bounded-risk engineering.
+I'm a software developer based in Auckland, New Zealand. I completed a Master of Information Technology with First Class Honours at the University of Auckland in September 2026.
 
-* Open to software engineering roles and collaborations around AI agents, automation, and reliable systems.
+I work across Python services, React/Next.js interfaces, and AI-agent automation. My projects focus on making decisions explicit, handling failures clearly, and verifying what the software actually did.
 
-* Portfolio: [**wenqing-ji-portfolio.vercel.app**](https://wenqing-ji-portfolio.vercel.app)
+During my University of Auckland Industry Internship, I contributed reusable frontend components, REST API integration, prompt and search logic, testing, and documentation in a team setting.
 
-### Public Work
+I'm open to graduate and junior software, backend/frontend, and AI/automation roles across New Zealand. I hold a post-study open work visa; no sponsorship is required during its validity.
 
-[**Agent GUI Runtime**](https://github.com/Desolate-Jix/agent-gui-runtime)<br>
-Reliability runtime for re-locating, gating, executing, and verifying semantic actions against the current Windows interface.<br>
-<sub>Python &middot; FastAPI &middot; Win32/UIA &middot; OpenCV &middot; OCR</sub>
+### Public work
+
+[**Agent GUI Runtime / Agent Review Instant**](https://github.com/Desolate-Jix/agent-gui-runtime)<br>
+A Windows automation runtime combining visual target grounding, step-by-step evidence checks, and continuing MCP sessions. Supported browser and desktop plans can continue in the same session, with uncertain outcomes returned to the main agent for review.<br>
+[Execution 0.1.3](https://github.com/Desolate-Jix/agent-gui-runtime/releases/tag/instant-v0.1.3) is released; the optional learning workbench remains a separate preview. Scoped installed and independent acceptance are documented in the repository.<br>
+<sub>Python &middot; FastAPI &middot; MCP &middot; Computer vision &middot; OpenAI API &middot; pytest</sub>
 
 [**Evidence-Driven Trading Desk**](https://github.com/Desolate-Jix/evidence-driven-trading-desk)<br>
-Clean-room event-driven domain core focused on execution-based accounting, lifecycle correctness, reproducible validation, and bounded aggregate risk.<br>
-<sub>Java 17 &middot; Maven &middot; JUnit &middot; Python &middot; event-driven systems</sub>
+A clean-room Java domain core for event-driven trading systems: execution-based accounting, inventory-aware quoting, and aggregate risk controls. The public modules have 46 focused JUnit tests and run independently of exchange connections.<br>
+<sub>Java 17 &middot; Maven &middot; JUnit &middot; Event-driven systems</sub>
 
-### Stack
+### Other project experience
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58A6FF&labelColor=161B22" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=3FB950&labelColor=161B22" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=F0883E&labelColor=161B22" alt="Java" />
-  <img src="https://img.shields.io/badge/Maven-0D1117?style=flat-square&logo=apachemaven&logoColor=C71A36&labelColor=161B22" alt="Maven" />
-  <img src="https://img.shields.io/badge/Windows-0D1117?style=flat-square&logo=windows11&logoColor=58A6FF&labelColor=161B22" alt="Windows" />
-  <img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=F0F6FC&labelColor=161B22" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Pytest-0D1117?style=flat-square&logo=pytest&logoColor=3FB950&labelColor=161B22" alt="Pytest" />
-  <img src="https://img.shields.io/badge/AI_Agents-0D1117?style=flat-square&labelColor=161B22" alt="AI Agents" />
-</p>
+- **IdeaSense AI coursework prototype:** implemented most of the frontend in a five-person University of Auckland CS778 team, including the workspace, staged conversations, summary confirmation, and report presentation.
+- **Networked game server and browser chess client:** C#/.NET 8 and JavaScript, with shared state, input validation, and concurrency controls.
+- **Data and diagnostics:** Python analysis with pandas/scikit-learn, plus HTTP API and DNS troubleshooting exercises.
+
+More context, case studies, and project limitations are on my [portfolio](https://wenqing-ji-portfolio.vercel.app).
+
+### Technologies
+
+- **Languages:** Python, TypeScript, JavaScript, Java, C#, SQL
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend and systems:** FastAPI, REST APIs, MCP, .NET, TCP sockets
+- **Data and AI:** pandas, scikit-learn, OCR, vision-language models, structured LLM outputs
+- **Verification and delivery:** pytest, JUnit, Jest, Playwright, Git, GitHub Actions, Docker
