@@ -38,10 +38,6 @@ Reliability runtime for re-locating, gating, executing, and verifying semantic a
 Clean-room event-driven domain core focused on execution-based accounting, lifecycle correctness, reproducible validation, and bounded aggregate risk.<br>
 <sub>Java 17 &middot; Maven &middot; JUnit &middot; Python &middot; event-driven systems</sub>
 
-[**Windows GUI Agent Runtime**](https://github.com/Desolate-Jix/windows-gui-agent-runtime)<br>
-Earlier reproducible OSS baseline for human-reviewed GUI knowledge, current-observation relocation, independent execution gates, trace, and verification.<br>
-<sub>Python &middot; FastAPI &middot; human-in-the-loop &middot; safe automation</sub>
-
 ### Stack
 
 <p>
